@@ -18,6 +18,7 @@ python3 demo.py
 # Notes
 - Please check out the Medium article about the project: LINK WILL BE HERE WHEN ARTICLE IS FINISHED
 - There is not a lot of room for customization (unless you do it yourself), but if I have time, I may add args parser support to tweak parameters such as epochs, model architecture, etc
+- You have the run 'train_model.py' to generate the model, before you demo/test it
 - The 'original.ipynb' notebook is how I orginally trained the model, and the 'demo.ipynb' notebook contains a quick and simple demo, which shows the functionality of the model
 - I may add support for saving transparent segmented images
 - Project can be improved by teaching the model to segment background, cytoplasm, and nuclei, instead of just cell/not cell
