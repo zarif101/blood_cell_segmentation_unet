@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+wbc_segmentation_model.h5
+wbc_segmentation_model2.h5
+.git
